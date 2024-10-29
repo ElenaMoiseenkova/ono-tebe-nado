@@ -1,1 +1,73 @@
+.content {
+  width: 100%;
+  margin: 0 auto;
+}
 
+header {
+  display: flex;
+  justify-content: space-evenly;
+  align-items: center;
+  width:1052px;
+  padding: 92px 24px;
+}
+
+  .header__links-list {
+  display: flex;
+  gap: 39px;
+  list-style: circle;
+}
+
+.header_link {
+  font-size: 18px;
+  font-weight: 400;
+  text-decoration: none;
+  padding-bottom: 0.1px;
+  border-bottom: 1.2px solid #000;
+}
+
+.header__link_active {
+  text-decoration: underline;
+}
+
+.header__links-list-item_no-bullit {
+  list-style: none;
+}
+
+.header__logo {
+  display: block;
+  width: 148px;
+}
+
+address {
+  display: block;
+  text-align: start;
+
+
+}
+
+.header__address {
+  justify-self:flex-end;
+}
+
+
+
+.cover {
+}
+
+.cover_discription {
+} 
+
+.cover_discription_text {
+
+}
+
+.cover_discription_button {
+
+}
+
+.title {
+}
+
+.lots{}
+
+.about{}
