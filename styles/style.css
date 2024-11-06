@@ -344,7 +344,7 @@ footer {
   flex-direction: column;
   list-style: none;
   text-align: center;
-  padding-left: 50px;
+  padding-left: 42px;
 }
 
 .footer__menu-link {
@@ -352,7 +352,7 @@ footer {
   font-size: 18px;
   text-decoration: underline;
   text-wrap: nowrap;
-  text-underline-offset: 3px;
+  text-underline-offset: 4px;
 }
 
 .footer__menu-link_active {
